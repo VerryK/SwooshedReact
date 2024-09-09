@@ -2,8 +2,6 @@
  * v0 by Vercel.
  * @see https://v0.dev/t/QAoAF5yIeTy
  * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
- * newwwwwwwww
- * 
  */
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
